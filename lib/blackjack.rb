@@ -45,6 +45,7 @@ end
 #####################################################
 
 def runner
-  welcome
+  Welcome
+  card_total = 
 end
     
