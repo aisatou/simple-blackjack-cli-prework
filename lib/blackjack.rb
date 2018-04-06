@@ -51,7 +51,8 @@ def runner
   hit?(card_total)
   break
   display_card_total(card_total)
-  
+end
+
 end
 end
     
